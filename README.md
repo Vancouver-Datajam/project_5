@@ -48,7 +48,7 @@ Please let me know if your name doesn't appear here, if there are any errors, or
 *For those who need help with Git! For those who don't, we can stay on call and continue brainstorming.
 
 ## How to use code in this repo
-TTo be updated during the Datajam
+To be updated during the Datajam
 
 This script contains code that does...
 
