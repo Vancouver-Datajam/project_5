@@ -3,28 +3,27 @@
 ## Project description
 
 ### The problem
-Since the middle of the 20th century, the rapidly increasing global production of plastics (322 million per year in 2016) has been accompanied by an unprecedented accumulation of plastic litter in our oceans. On average, an estimated 8 million metric tons of this persistent material enters the global ocean annually (Jambeck et al. 2015). Plastic litter compromises the ecological and economic prosperity of the ocean, with over 300 marine species being harmed annually through entanglement or ingestion (Gall & Thompson, 2015). Microplastics are a concern to ocean health because they are ingested by marine plankton, move across food webs and like all plastic litter they can persist in the ocean for an extremely long time (hundreds of years).
-
-Increasing public awareness and concern regarding the plastics crisis is evidenced by the growth of the zero waste movement and policy decisions such as plastic bag and plastic straw bans. These decisions are often met with mixed public opinion.
+Since the middle of the 20th century, the rapidly increasing global production of plastics (322 million per year in 2016) has been accompanied by an unprecedented accumulation of plastic litter in our oceans (Jambeck et al. 2015). In response, there has been an increase in public awareness and concern regarding the plastics crisis, accompanied by the growth of the zero waste movement and policy decisions such as plastic bag and plastic straw bans. These decisions are often met with mixed public opinion. Do people have positive, neutral, or negative opinions towards different sustainability initiatives? How do these sentiments compare across different locations?
 
 ### Dataset
-To be updated during the Datajam
+Using Tweepy, the Python library for accessing the Twitter API, we scraped some Tweet data that contained the following hashtags:
+* #noplastic
+* #plasticpollutes
+* #plasticpollution
+* #sustainability
+* #zerowaste
 
 ### Why is this important?
 To be updated during the Datajam
 
 ## Team members:
-Please let me know if your name doesn't appear here, if there are any errors, or if you would prefer that your name is not published
 * Jeanette Andrews (Team lead)
 * Madan Krishnan (Mentor)
-* Willy Deng
-* Jack Xie
-* Ellen Yeung
-* Kristen Bystrom
 * Jerry Chen
-* Sayemin Azam Naheen
-* Joseph Kim
+* Willy Deng
+* Sayemin Naheen
 * Juanita Palomar
+* Rita Zeng
 
 ## Datajam Schedule
 | Time | Description |
