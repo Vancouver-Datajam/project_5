@@ -24,7 +24,6 @@ Please let me know if your name doesn't appear here, if there are any errors, or
 * Jerry Chen
 * Sayemin Azam Naheen
 * Joseph Kim
-* Chen Zeng
 * Juanita Palomar
 
 ## Datajam Schedule
