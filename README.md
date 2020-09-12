@@ -2,17 +2,19 @@
 
 ## Project description
 
-### The problem (this can be edited)
+### The problem
 Since the middle of the 20th century, the rapidly increasing global production of plastics (322 million per year in 2016) has been accompanied by an unprecedented accumulation of plastic litter in our oceans. On average, an estimated 8 million metric tons of this persistent material enters the global ocean annually (Jambeck et al. 2015). Plastic litter compromises the ecological and economic prosperity of the ocean, with over 300 marine species being harmed annually through entanglement or ingestion (Gall & Thompson, 2015). Microplastics are a concern to ocean health because they are ingested by marine plankton, move across food webs and like all plastic litter they can persist in the ocean for an extremely long time (hundreds of years).
 
 Increasing public awareness and concern regarding the plastics crisis is evidenced by the growth of the zero waste movement and policy decisions such as plastic bag and plastic straw bans. These decisions are often met with mixed public opinion.
 
 ### Dataset
+To be updated during the Datajam
 
 ### Why is this important?
+To be updated during the Datajam
 
 ## Team members:
-
+Please let me know if your name doesn't appear here, if there are any errors or if you would like your name to be removed!
 * Jeanette Andrews (Team lead)
 * Madan Krishnan (Mentor)
 * Natasha Mattson
@@ -25,7 +27,24 @@ Increasing public awareness and concern regarding the plastics crisis is evidenc
 * Joseph Kim
 * Chen Zeng
 
+## Datajam Schedule
+| 8:30am | Opening Ceremony|
+| 9:30am | Official hack start time! Introductions|
+| 9:45am | Project brainstorming & defining tasks |
+| 10:00am | Optional Git workshop or continue brainstorming |
+| 10:30am | Hack/work on tasks |
+| 12:30pm | Check-in #1: meet back up as a team |
+| 1:00pm | Hack/work on tasks |
+| 3:30pm | Check-in #2: meet back up as a team |
+| | Debugging, prioritizing remaining tasks |
+| 5:00pm | Final repository merging |
+| | Prepare demo or slides |
+| 6:30pm | Final Presentation! |
+
+*For those who need help with Git! For those who don't, we can continue brainstorming.
+
 ## How to use code in this repo
+To be updated during the Datajam
 
 This script contains code that does...
 
@@ -36,4 +55,5 @@ Sample script usage
     arg1 is...
     arg2 is...
     
-## References (check licenses)
+## References 
+To be updated during the Datajam
