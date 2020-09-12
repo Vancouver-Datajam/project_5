@@ -17,7 +17,6 @@ To be updated during the Datajam
 Please let me know if your name doesn't appear here, if there are any errors, or if you would prefer that your name is not published
 * Jeanette Andrews (Team lead)
 * Madan Krishnan (Mentor)
-* Natasha Mattson
 * Willy Deng
 * Jack Xie
 * Ellen Yeung
