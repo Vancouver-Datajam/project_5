@@ -33,7 +33,7 @@ Please let me know if your name doesn't appear here, if there are any errors or 
 | 8:30am | Opening Ceremony |
 | 9:30am | Official hack start time! Meet together as team and start introductions|
 | 9:45am | Project brainstorming & defining tasks |
-| 10:00am | Optional Git workshop or continue brainstorming |
+| 10:00am | Optional Git workshop* or continue brainstorming |
 | 10:30am | Hack/work on tasks |
 | 12:30pm | Check-in #1: meet back up as a team |
 | 1:00pm | Hack/work on tasks |
@@ -43,7 +43,7 @@ Please let me know if your name doesn't appear here, if there are any errors or 
 | | Prepare demo or slides |
 | 6:30pm | Final Presentation! |
 
-*For those who need help with Git! For those who don't, we can continue brainstorming.
+*For those who need help with Git! For those who don't, we can stay on call and continue brainstorming.
 
 ## How to use code in this repo
 To be updated during the Datajam
