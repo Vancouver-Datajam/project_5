@@ -49,28 +49,16 @@ Please let me know if your name doesn't appear here, if there are any errors, or
 *For those who need help with Git! For those who don't, we can stay on call and continue brainstorming.
 
 ## How to use code in this repo
-To be updated during the Datajam
+TTo be updated during the Datajam
 
-This script contains code that scrapes data from the following website https://www.waterlevels.gc.ca/eng/data for a given location.
-
-2020 Tides https://www.waterlevels.gc.ca/eng/data/table/2020/wlev_sec/7965 
-2019 Tides https://www.waterlevels.gc.ca/eng/data/table/2019/wlev_sec/7965
-2018 Tides https://www.waterlevels.gc.ca/eng/data/table/2018/wlev_sec/7965
-
-The python script will take as input:
-Website URL
-Start date (Year-Month-Day)
-End date (Year-Month-Day)
-And as output it will return a pandas dataframe (or a CSV) with the data with the following columns:
-
-|Date (YYYY-MM-DD)|Time (24 hour format)|Height-of-tide (meters)|
-| - | - | - |
-
+This script contains code that does...
 
 Sample script usage
 
-    python3 scrape_tide_data.py URL start_date end_date
+    python3 my_code.py <arg1> <arg2>
 
+    arg1 is...
+    arg2 is...
     
 ## References 
 To be updated during the Datajam
