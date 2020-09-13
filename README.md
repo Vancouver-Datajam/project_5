@@ -46,17 +46,5 @@ To be updated during the Datajam
 
 *For those who need help with Git! For those who don't, we can stay on call and continue brainstorming.
 
-## How to use code in this repo
-To be updated during the Datajam
-
-This script contains code that does...
-
-Sample script usage
-
-    python3 my_code.py <arg1> <arg2>
-
-    arg1 is...
-    arg2 is...
-    
 ## References 
 To be updated during the Datajam
