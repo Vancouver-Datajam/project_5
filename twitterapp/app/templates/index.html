@@ -1,0 +1,24 @@
+<!-- Search Bar -->
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="/static/index.css">
+</head>
+
+<body>
+  <h2>
+    <center>Welcome to VDJ Tweet Generator</center>
+  </h2>
+  <h3>
+    <center>Enter the starting word to generate a tweet!</center>
+  </h3>
+  <form method="post" action="{{ url_for('tweet_result') }}" style="margin:auto;max-width:600px">
+    <label>Starting word</label>
+    <input type="text" name="start_word" placeholder="pollution..">
+
+    <input type="submit" value="Submit">
+  </form>
+</body>
+
+</html>
