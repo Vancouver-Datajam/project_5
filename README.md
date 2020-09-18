@@ -3,7 +3,7 @@
 ## Project description
 
 ### The problem
-Since the middle of the 20th century, the rapidly increasing global production of plastics (322 million metric tons per year in 2016) has been accompanied by an unprecedented accumulation of plastic litter in our oceans (Jambeck et al. 2015). In response, there has been an increase in public awareness and concern regarding the plastics crisis, accompanied by the growth of the zero waste movement and policy decisions such as plastic bag and plastic straw bans. These decisions are often met with mixed public opinion. Do people have positive, neutral, or negative opinions towards different sustainability initiatives? How do we find these sentiments?
+Since the middle of the 20th century, the rapidly increasing global production of plastics (322 million metric tons per year in 2016) has been accompanied by an unprecedented accumulation of plastic litter in our oceans (Jambeck et al. 2015). In response, there has been an increase in public awareness and concern regarding the plastics crisis, accompanied by the growth of the zero waste movement and policy decisions such as plastic bag and plastic straw bans. These decisions are often met with mixed public opinion. Do people have positive, neutral, or negative opinions towards different sustainability initiatives? How do we find and measure these sentiments?
 
 ### Libraries used
 - pandas
@@ -20,13 +20,27 @@ Since the middle of the 20th century, the rapidly increasing global production o
 - os
 
 ### Dataset
-We decided to find people's sentiments towards different sustainability topics by looking at Twitter data. Using Tweepy, the Python library for accessing the Twitter API, we scraped some Tweets that contained the following hashtags:
+We used Twitter data to conduct a sentiment analysis towards different sustainability topics. Using Tweepy, the Python library for accessing the Twitter API, we scraped some Tweets that contained the following hashtags:
 * #noplastic
 * #plasticpollutes
 * #plasticpollution
 * #sustainability
-* #zerowaste
-The folder 'hashtags' contains all the datasets for this project. Each CSV file name corresponds with the hashtag. The CSV with "updated" in their names contains each Tweet's extracted location. Because of the API's restrictions, we were only able to scrape week-old data.
+* #zerowaste <br />
+<br />
+The folder 'hashtags' contains all the datasets for this project. Each CSV file name corresponds with the Tweets' hashtag. The CSV with the filename "updated" contains an aditional location column. Because of the API's restrictions, we were only able to scrape week-old data.
+
+### Files included
+#### Data cleaning
+* Stop_words_and_Punctuation_Removal_+_Word_cloud.ipynb: Removes stop words and punctation from Tweet text to prepare for sentiment analysis. Creates a wordcloud of most common words for each hashtag group.
+* extract_english.ipynb: Extracts English-only Tweets.
+
+#### Data analysis
+* sentiment_ratio.ipynb: Uses Textblob to calculate the positive and negative percentage and ratio based on Tweet texts. Finds bigrams and trigrams for each hashtag group.
+* workflow.ipynb: Combines all cleaning and analysis all into one workflow.
+
+#### Tweet bot
+* tweet_generator.ipynb: A neural network (with Gated Recurrent Units - GRU) was trained on the obtained tweets. Given the starting word, it generates ‘new’ tweets! 
+
 
 ### Results
 
