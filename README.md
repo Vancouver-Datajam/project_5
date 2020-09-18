@@ -45,6 +45,7 @@ The folder "hashtags" contains all the datasets for this project. Each CSV file 
 ### Results
 
 In our scraped Tweets, there are generally more positive than negative sentiments in their text. The ratio of positive to negative sentiments are very high for each hashtag group. 
+
 <img src="https://github.com/Vancouver-Datajam/project_5/blob/master/images/sentiment_analysis_results.png" width="500"/>
 
 The following wordcloud demonstrates the most common words of all Tweets containing the #noplastic hashtag.
