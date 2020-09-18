@@ -49,6 +49,7 @@ In our scraped Tweets, there are generally more positive than negative sentiment
 <img src="https://github.com/Vancouver-Datajam/project_5/blob/master/images/sentiment_analysis_results.png" width="500"/>
 
 The following wordcloud demonstrates the most common words of all Tweets containing the #noplastic hashtag.
+
 <img src="https://github.com/Vancouver-Datajam/project_5/blob/master/images/noplastic_wordcloud.png" width="500"/>
 
 ## Team members:
