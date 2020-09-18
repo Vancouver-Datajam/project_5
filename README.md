@@ -3,18 +3,33 @@
 ## Project description
 
 ### The problem
-Since the middle of the 20th century, the rapidly increasing global production of plastics (322 million per year in 2016) has been accompanied by an unprecedented accumulation of plastic litter in our oceans (Jambeck et al. 2015). In response, there has been an increase in public awareness and concern regarding the plastics crisis, accompanied by the growth of the zero waste movement and policy decisions such as plastic bag and plastic straw bans. These decisions are often met with mixed public opinion. Do people have positive, neutral, or negative opinions towards different sustainability initiatives? How do these sentiments compare across different locations?
+Since the middle of the 20th century, the rapidly increasing global production of plastics (322 million per year in 2016) has been accompanied by an unprecedented accumulation of plastic litter in our oceans (Jambeck et al. 2015). In response, there has been an increase in public awareness and concern regarding the plastics crisis, accompanied by the growth of the zero waste movement and policy decisions such as plastic bag and plastic straw bans. These decisions are often met with mixed public opinion. Do people have positive, neutral, or negative opinions towards different sustainability initiatives? How do we find these sentiments?
+
+### Libraries used
+- pandas
+- numpy
+- textblob
+- collections
+- re
+- nltk
+- sklearn
+- emot
+- wordcloud
+- contractions
+- tensorflow
+- os
+Please install these packages before running our code.
 
 ### Dataset
-Using Tweepy, the Python library for accessing the Twitter API, we scraped some Tweet data that contained the following hashtags:
+The folder 'hashtags' contains all the datasets for this project. Using Tweepy, the Python library for accessing the Twitter API, we scraped some Tweet data that contained the following hashtags:
 * #noplastic
 * #plasticpollutes
 * #plasticpollution
 * #sustainability
 * #zerowaste
 
-### Why is this important?
-To be updated during the Datajam
+### Results
+
 
 ## Team members:
 * Jeanette Andrews (Team lead)
@@ -24,6 +39,7 @@ To be updated during the Datajam
 * Sayemin Naheen
 * Juanita Palomar
 * Rita Zeng
+Congratulations to all participants! You should all be proud of your work during this Datajam. :)
 
 ## Datajam Schedule
 | Time | Description |
