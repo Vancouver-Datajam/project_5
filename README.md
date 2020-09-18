@@ -38,7 +38,6 @@ The folder 'hashtags' contains all the datasets for this project. Using Tweepy, 
 * Sayemin Naheen
 * Juanita Palomar
 * Rita Zeng
-Congratulations to all participants! You should all be proud of your work during this Datajam. :)
 
 ## Datajam Schedule
 | Time | Description |
