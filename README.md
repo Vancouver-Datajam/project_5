@@ -25,7 +25,8 @@ We used Twitter data to conduct a sentiment analysis towards different sustainab
 * #plasticpollutes
 * #plasticpollution
 * #sustainability
-* #zerowaste <br /> <br />
+* #zerowaste
+<br />
 The folder 'hashtags' contains all the datasets for this project. Each CSV file name corresponds with the Tweets' hashtag. The CSV with the filename "updated" contains an aditional location column. Because of the API's restrictions, we were only able to scrape week-old data.
 
 ### Files included
