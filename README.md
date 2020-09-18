@@ -3,7 +3,7 @@
 ## Project description
 
 ### The problem
-Since the middle of the 20th century, the rapidly increasing global production of plastics (322 million per year in 2016) has been accompanied by an unprecedented accumulation of plastic litter in our oceans (Jambeck et al. 2015). In response, there has been an increase in public awareness and concern regarding the plastics crisis, accompanied by the growth of the zero waste movement and policy decisions such as plastic bag and plastic straw bans. These decisions are often met with mixed public opinion. Do people have positive, neutral, or negative opinions towards different sustainability initiatives? How do we find these sentiments?
+Since the middle of the 20th century, the rapidly increasing global production of plastics (322 million metric tons per year in 2016) has been accompanied by an unprecedented accumulation of plastic litter in our oceans (Jambeck et al. 2015). In response, there has been an increase in public awareness and concern regarding the plastics crisis, accompanied by the growth of the zero waste movement and policy decisions such as plastic bag and plastic straw bans. These decisions are often met with mixed public opinion. Do people have positive, neutral, or negative opinions towards different sustainability initiatives? How do we find these sentiments?
 
 ### Libraries used
 - pandas
@@ -20,14 +20,16 @@ Since the middle of the 20th century, the rapidly increasing global production o
 - os
 
 ### Dataset
-The folder 'hashtags' contains all the datasets for this project. Using Tweepy, the Python library for accessing the Twitter API, we scraped some Tweet data that contained the following hashtags:
+We decided to find people's sentiments towards different sustainability topics by looking at Twitter data. Using Tweepy, the Python library for accessing the Twitter API, we scraped some Tweets that contained the following hashtags:
 * #noplastic
 * #plasticpollutes
 * #plasticpollution
 * #sustainability
 * #zerowaste
+The folder 'hashtags' contains all the datasets for this project. Each CSV file name corresponds with the hashtag. The CSV with "updated" in their names contains each Tweet's extracted location. Because of the API's restrictions, we were only able to scrape week-old data.
 
 ### Results
+
 
 
 ## Team members:
@@ -59,6 +61,3 @@ The folder 'hashtags' contains all the datasets for this project. Using Tweepy, 
 
 
 *For those who need help with Git! For those who don't, we can stay on call and continue brainstorming.
-
-## References 
-To be updated during the Datajam
