@@ -18,7 +18,6 @@ Since the middle of the 20th century, the rapidly increasing global production o
 - contractions
 - tensorflow
 - os
-Please install these packages before running our code.
 
 ### Dataset
 The folder 'hashtags' contains all the datasets for this project. Using Tweepy, the Python library for accessing the Twitter API, we scraped some Tweet data that contained the following hashtags:
