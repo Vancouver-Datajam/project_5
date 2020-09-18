@@ -26,7 +26,6 @@ We used Twitter data to conduct a sentiment analysis towards different sustainab
 * #plasticpollution
 * #sustainability
 * #zerowaste <br />
-<br />
 The folder 'hashtags' contains all the datasets for this project. Each CSV file name corresponds with the Tweets' hashtag. The CSV with the filename "updated" contains an aditional location column. Because of the API's restrictions, we were only able to scrape week-old data.
 
 ### Files included
@@ -36,7 +35,7 @@ The folder 'hashtags' contains all the datasets for this project. Each CSV file 
 
 #### Data analysis
 * sentiment_ratio.ipynb: Uses Textblob to calculate the positive and negative percentage and ratio based on Tweet texts. Finds bigrams and trigrams for each hashtag group.
-* workflow.ipynb: Combines all cleaning and analysis all into one workflow.
+* workflow.ipynb: Combines all cleaning and analysis all into one workflow. Does not include wordclouds. 
 
 #### Tweet bot
 * tweet_generator.ipynb: A neural network (with Gated Recurrent Units - GRU) was trained on the obtained tweets. Given the starting word, it generates ‘new’ tweets! 
