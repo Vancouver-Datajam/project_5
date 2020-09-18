@@ -3,7 +3,7 @@
 ## Project description
 
 ### The problem
-Since the middle of the 20th century, the rapidly increasing global production of plastics (322 million metric tons per year in 2016) has been accompanied by an unprecedented accumulation of plastic litter in our oceans (Jambeck et al. 2015). In response, there has been an increase in public concern regarding the plastics crisis, along with the growth of the zero waste movement and increase in new plastic-ban policy decisions (i.e. plastic bags and straw bans). These decisions are often met with mixed public opinion. Do people have positive, neutral, or negative opinions towards different sustainability initiatives? How do we find and measure these sentiments?
+Since the middle of the 20th century, the rapidly increasing global production of plastics (322 million metric tons per year in 2016) has been accompanied by an unprecedented accumulation of plastic litter in our oceans (Jambeck et al. 2015). In response, there has been an increase in public concern regarding the plastics crisis, along with the growth of the zero waste movement and increase in new plastic-ban policy decisions (i.e. plastic bag and straw bans). These decisions are often met with mixed public opinion. Do people have positive, neutral, or negative opinions towards different sustainability initiatives? How do we find and measure these sentiments?
 
 ### Dataset
 We used Twitter data to conduct a sentiment analysis regarding different sustainability topics. Using Tweepy, the Python library for accessing the Twitter API, we scraped some Tweets that contained the following hashtags:
